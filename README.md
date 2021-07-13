@@ -6,12 +6,6 @@
 [![Linkedin: Abheenav](https://img.shields.io/badge/-Abheenav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abheenav-v-j-b0b172199/)](https://www.linkedin.com/in/abheenav-v-j-b0b172199/)
 [![GitHub Abheenav](https://img.shields.io/github/followers/Abheenav?label=follow&style=social)](https://github.com/Abheenav)
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/abheenav-v-j-b0b172199/"><img align="left" alt="Abheenav V. J | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="mailto:abheenavvj@gmail.com"><img align="left" alt="Abheenav | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" /></a>
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -26,10 +20,16 @@
 
 <br />
 
-</a>
-https://github-readme-stats.vercel.app/api?username=Abheenav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
-</a>
+### Connect with me:
 
+<a href="https://www.linkedin.com/in/abheenav-v-j-b0b172199/"><img align="left" alt="Abheenav V. J | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="mailto:abheenavvj@gmail.com"><img align="left" alt="Abheenav | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" /></a>
+<br />
+
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abheenav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Abheenav's github stats"/>
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
