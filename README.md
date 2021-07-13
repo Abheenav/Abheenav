@@ -1,10 +1,15 @@
 ### Hi there I'm Abheenav 👋
 
 - 🔭 I’m Currently working on Computer Vision, NLP & Deep Learning projects.
-- 📌 Scroll down to see my **Pinned Repositories**.
+- 🌱 I’m currently learning more about Data Science.
+- 😄 Pronouns: He/His
+
 
 [![Linkedin: Abheenav](https://img.shields.io/badge/-Abheenav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abheenav-v-j-b0b172199/)](https://www.linkedin.com/in/abheenav-v-j-b0b172199/)
-[![GitHub Abheenav](https://img.shields.io/github/followers/Abheenav?label=follow&style=social)](https://github.com/Abheenav)
+
+### My Projects on:
+
+<a href="https://github.com/Abheenav/Machine-learning-projects" target="_blank"><img src="https://github.com/Abheenav/Abheenav-VJ/blob/main/ScreenShots/ML.jpg" width=250 height=50 ></a>  <a href="https://github.com/Abheenav/Deep-learning-projects" target="_blank"> <img src="https://github.com/Abheenav/Abheenav-VJ/blob/main/ScreenShots/DL1.jpg" width=250 height=50></a>
 
 ### Languages and Tools:
 
@@ -27,7 +32,7 @@
 <br />
 
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Abheenav">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abheenav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Abheenav's github stats"/>
 </a>
 <div align="center">
