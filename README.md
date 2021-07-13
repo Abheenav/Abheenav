@@ -7,7 +7,7 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 
-[![Linkedin Abheenav](https://img.shields.io/linkedin/followers/Abheenav?label=follow&style=social)](https://linkedin.com/in/abheenav-v-j-b0b172199)
+[![Linkedin](https://img.shields.io/linkedin/followers/Abheenav?label=follow&style=social)](https://linkedin.com/in/abheenav-v-j-b0b172199)
 [![Linkedin: Abheenav](https://img.shields.io/badge/-Abheenav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abheenav-v-j-b0b172199/)](https://www.linkedin.com/in/abheenav-v-j-b0b172199/)
 
 [![GitHub Abheenav](https://img.shields.io/github/followers/Abheenav?label=follow&style=social)](https://github.com/Abheenav)
