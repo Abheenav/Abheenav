@@ -3,17 +3,8 @@
 - 🔭 I’m Currently working on Computer Vision, NLP & Deep Learning projects.
 - 📌 Scroll down to see my **Pinned Repositories**.
 
-
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-
-[![Linkedin](https://img.shields.io/linkedin/followers/Abheenav?label=follow&style=social)](https://linkedin.com/in/abheenav-v-j-b0b172199)
 [![Linkedin: Abheenav](https://img.shields.io/badge/-Abheenav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abheenav-v-j-b0b172199/)](https://www.linkedin.com/in/abheenav-v-j-b0b172199/)
-
 [![GitHub Abheenav](https://img.shields.io/github/followers/Abheenav?label=follow&style=social)](https://github.com/Abheenav)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
-
-
 
 ### Connect with me:
 
@@ -34,9 +25,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-
+</a>
 <a href="https://github.com/Abheenav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abheenav&theme=light&hide_langs_below=1" />
+</a>
 </a>
 <a href="https://github.com/Abheenav">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abheenav&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
